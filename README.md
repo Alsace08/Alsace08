@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Alsace08/Alsace08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi~ 👋 This is Yiming Wang, an AI researcher.
+
+- 🔭 I’m currently studying on Beihang University and an incoming Ph.D student of Shanghai Jiao Tong University.
+- 🌱 My research interests are natural language processing, especially cross-language models, text generation, and low-resource machine translation.
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alsace08&theme=vue&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alsace08&layout=compact&theme=vue)
