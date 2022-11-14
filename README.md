@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi~ 👋 This is Yiming Wang, an AI researcher.
 
 - 🔭 I’m currently studying on Beihang University and an incoming Ph.D student of Shanghai Jiao Tong University.
-- 🌱 My research interests are natural language processing, especially cross-language models, text generation, and low-resource machine translation.
+- 🌱 My research interests are natural language processing, especially cross-lingual language models, text generation, and low-resource machine translation.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alsace08&theme=vue&show_icons=true)
 
