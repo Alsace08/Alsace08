@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi👋 This is Yiming Wang, an AI explorer~
 
 - 🔭 I’m currently studying on Beihang University and an incoming Ph.D student of Shanghai Jiao Tong University.
-- 🌱 My research interests are natural language processing, especially **Intelligent Emergence (logical & mathematical reasoning) and Manipulation (controllable generation) of Language Models**. 
+- 🌱 My research interests are natural language processing, especially **Intelligent Emergence (reasoning) and Manipulation (controllable generation) of Language Models**. 
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alsace08&theme=vue&show_icons=true)
 
