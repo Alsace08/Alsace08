@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Beihang University and an incoming Ph.D student of Shanghai Jiao Tong University.
 - 🌱 My research interests are natural language processing, especially **Intelligent Emergence (reasoning) and Manipulation (controllable generation) of Language Models**. 
-- Blog: alsace08.github.io
-- cv: alsace08.github.io/cv/index.html
+
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alsace08&theme=vue&show_icons=true)
 
