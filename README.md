@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi👋 This is Yiming Wang, an AI explorer~
-<a href = "mailto: alsaceym@gmail.com"><img src="https://img.shields.io/badge/-GMail-yellow?style=plastic&logo=gmail&logoColor=red" target="_blank"></a> <a href = "https://www.zhihu.com/people/yikou-niao-93"><img src="https://img.shields.io/badge/-ZhiHu(知乎)-blue?style=plastic" target="_blank"></a> <a href = "https://alsace08.github.io"><img src="https://img.shields.io/badge/-Blog-green?style=plastic&logo=blog" target="_blank"></a> <a href = "https://alsace08.github.io/cv/index.html"><img src="https://img.shields.io/badge/-Curriculum%20Vitae-white?style=plastic&logo=cv" target="_blank"></a>
+<a href = "mailto: alsaceym@gmail.com"><img src="https://img.shields.io/badge/-GMail-yellow?style=plastic&logo=gmail&logoColor=red" target="_blank"></a> <a href = "https://www.zhihu.com/people/yikou-niao-93"><img src="https://img.shields.io/badge/-ZhiHu(知乎)-blue?style=plastic&logo=zhihu&logoColor=white" target="_blank"></a> <a href = "https://alsace08.github.io"><img src="https://img.shields.io/badge/-Blog-green?style=plastic&logo=blog" target="_blank"></a> <a href = "https://alsace08.github.io/cv/index.html"><img src="https://img.shields.io/badge/-Curriculum%20Vitae-white?style=plastic&logo=cv" target="_blank"></a>
 
 - 🔭 I’m currently studying on Beihang University and an incoming Ph.D student of Shanghai Jiao Tong University.
 - 🌱 My research interests are natural language processing, especially **Intelligent Emergence (reasoning) and Manipulation (controllable generation) of Language Models**. 
