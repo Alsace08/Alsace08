@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi👋 This is Yiming Wang, an AI explorer~
+<a href = "mailto: alsaceym@gmail.com"><img src="https://img.shields.io/badge/-Mail1-yellow?style=plastic&logo=gmail&logoColor=red" target="_blank"></a> <a href = "https://www.zhihu.com/people/yikou-niao-93"><img src="https://img.shields.io/badge/-ZhiHu-blue?style=plastic" target="_blank"></a>
 
 - 🔭 I’m currently studying on Beihang University and an incoming Ph.D student of Shanghai Jiao Tong University.
 - 🌱 My research interests are natural language processing, especially **Intelligent Emergence (reasoning) and Manipulation (controllable generation) of Language Models**. 
