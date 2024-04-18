@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href = "mailto: alsaceym@gmail.com"><img src="https://img.shields.io/badge/-GMail-yellow?style=plastic&logo=gmail&logoColor=red" target="_blank"></a> <a href = "https://www.zhihu.com/people/yikou-niao-93"><img src="https://img.shields.io/badge/-ZhiHu(知乎)-blue?style=plastic&logo=zhihu&logoColor=white" target="_blank"></a> <a href = "https://alsace08.github.io"><img src="https://img.shields.io/badge/-Blog-green?style=plastic&logo=blog" target="_blank"></a> <a href = "https://alsace08.github.io/cv/index.html"><img src="https://img.shields.io/badge/-Curriculum%20Vitae-white?style=plastic&logo=cv" target="_blank"></a>
 
 - 🔭 I’m a first-year Ph.D. candidate at Shanghai Jiao Tong University (2023 - ). Before that, I received a Bachelor's degree from Beihang University (2019 - 2023).
-- 🌱 My research interests are Natural Language Processing, especially **Complex Reasoning** and **Discrete Generation**(Text/Symbol/Molecule) oriented towards Large Language Models (LLMs) and Machine Learning (ML). 
+- 🌱 My research interests are Natural Language Processing, especially **Discrete Generation** (Text/Symbol/Molecule) and **Complex Reasoning** oriented towards Large Language Models and Machine Learning. 
 - 🤔 (Vision) I expect to explore the cognitive mechanisms of deep modeling. BTW, I am also interested in LLM Agent and Linguistics.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alsace08&theme=vue&show_icons=true)
